@@ -104,3 +104,55 @@
 //	else if (sk1 == sk2 || sk1 == sk3 || sk2 == sk3)
 //		cout << "Vienadasanu" << endl;
 //}
+#include <iostream>
+using namespace std;
+
+void getName()
+{
+	string name;
+	cout << "Please enter yourr name";
+	cin >> age;
+
+}
+void getAge()
+{
+	int age;
+	cout << "Please enter yourr name";
+		cin >> age;
+}
+void faveColour()
+{
+	int choice;
+	do
+	{
+	cout << endl
+	<< " 1 - red.\n"
+		<< " 2 - blue.\n"
+		<< " 3 - idk.\n";
+	cin >> choice;
+
+	switch (choice)
+	{
+	case 1:
+		break;
+	case2:
+	case 3:
+		break;
+	}
+	}while (choice != 2 && choice != 1);
+}
+void enterPerson1Number
+{
+	int persn;
+cout << "";
+cin >> persn;
+}
+int main()
+{
+	getName();
+	faveColour();
+	getAge();
+
+
+	return 0;
+}
