@@ -1,0 +1,46 @@
+//#include <iostream>
+//#include <vector>
+//using namespace std;
+//int main()
+////{
+//	vector <int> sk{ 1,2,4,1,2 };
+//
+//	if (sk[0] == 1) cout << "pirmaja vieta ir 1" << endl;
+//	if (sk[1] == 1)cout  << "otraja vieta ir 1" << endl;
+//	if (sk[2] == 1)cout << "tresaja vieta ir 1" << endl;
+//	if (sk[3] == 1)cout << "ceturtaja vieta ir 1" << endl;
+//	if (sk[4] == 1)cout << "piektaja vieta ir 1" << endl;
+//
+//
+//	if (sk[0] == 4)cout << "pirmaja vieta ir 4" << endl;
+//	if (sk[1] == 4)cout << "otraja vieta ir 4" << endl;
+//	if (sk[2] == 4)cout << "tresaja vieta ir 4" << endl;
+//	if (sk[3] == 4)cout << "ceturtaja vieta ir 4" << endl;
+//	if (sk[4] == 4)cout << "piektaja vieta ir 4" << endl;
+//
+//	string atb, num;
+//	vector<string> country{"USA", "UK", "China", "India", "Canada", "Australia"};
+//	vector<string>code{ "+1", "+44", "+91", "+86", "+1", "+61" };
+//	cin >> atb;
+//	if (code[0] == atb) { cout << country[0] << " " << atb << num << endl; }
+//	if (code[1] == atb) { cout << country[1] << " " << atb << num << endl; }
+//	if (code[2] == atb) { cout << country[2] << " " << atb << num << endl; }
+//	if (code[3] == atb) { cout << country[3] << " " << atb << num << endl; }
+//	if (code[4] == atb) { cout << country[4] << " " << atb << num << endl; }
+//}
+
+
+//{
+//
+//	int atb;
+//	vector <int> atz{ 3, 8, 7, 4 };
+//	vector <string> name{ "Anna", "Antons", "Vlads", "Artemijs" };
+//	cin >> atb;
+//	if (atz[0] == atb) cout << name[0];
+//	if (atz[1] == atb) cout << name[1];
+//	if (atz[2] == atb) cout << name[2];
+//	if (atz[3] == atb) cout << name[3];
+//	if (atb != atz[0] && atb != atz[1] && atb != atz[2] && atb != atz[3]) cout << "nepareiza atzime";
+//
+//}
+
